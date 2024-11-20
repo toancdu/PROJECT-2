@@ -1,0 +1,49 @@
+
+
+h1{
+    color: springgreen;
+    text-align: center;
+    font-weight: bold;
+}
+h6{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+#foo{
+    color: blue;
+    font-weight: bolder;
+    
+}
+table,th,td{
+    border: 1px solid black;
+    /*Remove border format 1px above */
+    border-collapse: collapse;
+    /* add cell pading */
+    padding: 5px;
+}
+#tr1,#tr2{
+    color: blueviolet;
+}
+/* Only add color for UL item */
+ul>li{
+    color: blue;
+}
+a{
+    color: blue;
+}
+a[href="https://amazon.com"]{
+    color: red;
+}
+button{
+    width: 100px;
+    height: 25px;
+    font-size: 16px;
+    background-color: green;
+}
+button:hover{
+    background-color: orange;
+}
+
+    

@@ -1,0 +1,28 @@
+ul {
+  font-size: 14px;
+  color: rgb(51, 0, 255);
+}
+
+ol {
+  font-size: 18px;
+  color: rgb(51, 0, 255);
+}
+
+.Grid-item {
+  font-size: 18px;
+  color: rgb(51, 0, 255);
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+/* Inherite attribute message */
+p {
+  color: green;
+}/*# sourceMappingURL=style2.css.map */

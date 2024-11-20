@@ -1,0 +1,8 @@
+Duplicate: Shift+Alt+ mui ten xuong
+Go to top, end line: Fn + Home/End
+Comment code:Boi den --> Shift + Alt + A
+Thut dong code: Ctrl + {}
+Khoi tao new HTML file: Shift+1
+De chay scss file: Cai dat sass complier
+----------------------------------------
+Note: Variable, Nesting, Inheritance in scss
