@@ -2,7 +2,7 @@
 
 ## You will find in this repos: 
 * Information about myselt toancdu
-* [Practice HTML, CSS, JAVASCRIPT and PYTHON.Copyright @2024 by toancdu](https://github.com/toancdu/PROJECT-2.git)
+* Practice HTML, CSS, JAVASCRIPT and PYTHON
 * Readme.md. This file itself using markdown language
 * .gitignore file for project-2
 * Notification for workflow - https://github.com/settings/notifications
